@@ -3,9 +3,11 @@
 // @namespace    http://tomcat.one/
 // @version      0.1
 // @description  Provide PDF Download button for master's thesis on cnki.net
-// @author       tomcat
+// @author       tomacat
 // @match        http://kns.cnki.net/KCMS/detail/detail.aspx?*
 // @grant        none
+// @license      GNU General Public License v3.0 or later
+// @supportURL   https://github.com/troutperch/cnki-pdf-download.js/
 // ==/UserScript==
 
 window.onload = function() {
