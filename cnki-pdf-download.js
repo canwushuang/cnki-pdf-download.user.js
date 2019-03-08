@@ -18,7 +18,4 @@ window.onload = function() {
     $(".dllink").append(anchorLink);
     $(".rootw .wxToolbar .dllink").css("margin-right", "200px");
     $(".rootw .wxToolbar .infotxt").css("width", "160px");
-    $('.icon-dlGreen').addClass("icon-dlcaj");
-    $('.icon-dlGreen').removeClass("icon-dlGreen");
-
 };
