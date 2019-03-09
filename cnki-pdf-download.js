@@ -13,7 +13,7 @@
 window.onload = function() {
     var cdjDownload = $('.icon-dlGreen').attr('href');
     var pdfDownload = cdjDownload.replace("dflag=nhdown", "dflag=pdfdown");
-    var overseaDownload = pdfDownload.replace("/kns/download.aspx", "http://gb.oversea.cnki.net/kcms/download.aspx");
+    var overseaDownload = pdfDownload.replace("//kns.cnki.net/kns/download.aspx", "//gb.oversea.cnki.net/kcms/download.aspx");
     var anchorLink = "<a href='"+overseaDownload+"' class='icon icon-dlpdf'>PDF下载</a>";
     $(".dllink").append(anchorLink);
     $(".rootw .wxToolbar .dllink").css("margin-right", "200px");
