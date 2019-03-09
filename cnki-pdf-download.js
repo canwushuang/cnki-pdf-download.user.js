@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CNKI PDF Download
 // @namespace    https://tomcat.one/
-// @version      0.2
+// @version      0.3
 // @description  Provide PDF Download button for master's thesis on cnki.net
 // @author       tomacat
 // @match        http://kns.cnki.net/KCMS/detail/detail.aspx?*
