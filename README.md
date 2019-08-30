@@ -21,4 +21,4 @@ To use user scripts you need to first install a user script manager. Which user 
 For more detail, please see [this guide](https://greasyfork.org/en/help/installing-user-scripts).
 
 ## License
-[GNU General Public License v3.0](LICENSE)
+[The Unlicense](LICENSE)
