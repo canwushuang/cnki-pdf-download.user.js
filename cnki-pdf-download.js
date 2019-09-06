@@ -6,7 +6,7 @@
 // @author       tomacat
 // @match        http://kns.cnki.net/KCMS/detail/detail.aspx?*
 // @grant        none
-// @license      GNU General Public License v3.0 or later
+// @license      The Unlicense
 // @supportURL   https://github.com/tomac4t/cnki-pdf-download.js
 // @run-at       document-end
 // ==/UserScript==
