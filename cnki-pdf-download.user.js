@@ -16,7 +16,7 @@
     var cdjDownload = $('.icon-dlGreen')[0].href;
     var pdfDownload = cdjDownload.replace("dflag=nhdown", "dflag=pdfdown");
     var overseaDownload = pdfDownload.replace("//kns.cnki.net/kns/download.aspx", "//gb.oversea.cnki.net/kcms/download.aspx");
-    var anchorLink = "<a href='" + overseaDownload + "' target='_blank' class='icon icon-dlpdf'>PDF下载</a>";
+    var anchorLink = "<a href='" + overseaDownload + "' class='icon icon-dlpdf' rel='noreferrer' target='_blank'>PDF下载</a>";
     $(".dllink").append(anchorLink);
     $(".rootw .wxToolbar .dllink").css("margin-right", "200px");
     $(".rootw .wxToolbar .infotxt").css("width", "160px");
