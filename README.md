@@ -1,4 +1,4 @@
-# cnki-pdf-download.js
+# cnki-pdf-download.user.js
 
 ## What this user script solved?
 

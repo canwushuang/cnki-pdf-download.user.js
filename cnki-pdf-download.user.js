@@ -7,7 +7,7 @@
 // @match        https://kns.cnki.net/KCMS/detail/detail.aspx?*
 // @grant        none
 // @license      The Unlicense
-// @supportURL   https://github.com/tomac4t/cnki-pdf-download.js
+// @supportURL   https://github.com/tomac4t/cnki-pdf-download.user.js
 // @run-at       document-end
 // ==/UserScript==
 
