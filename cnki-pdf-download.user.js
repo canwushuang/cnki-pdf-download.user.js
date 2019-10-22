@@ -8,6 +8,8 @@
 // @grant        none
 // @license      The Unlicense
 // @supportURL   https://github.com/tomac4t/cnki-pdf-download.user.js
+// @updateURL    https://tomcat.one/git/tom/cnki-pdf-download.user.js/raw/branch/master/cnki-pdf-download.user.js
+// @downloadURL  https://tomcat.one/git/tom/cnki-pdf-download.user.js/raw/branch/master/cnki-pdf-download.user.js
 // @run-at       document-end
 // ==/UserScript==
 
