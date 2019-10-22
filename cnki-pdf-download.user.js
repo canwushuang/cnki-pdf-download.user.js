@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         CNKI PDF Download
+// @name         cnki-pdf-download.user.js
 // @namespace    https://tomcat.one/
 // @version      0.9
 // @description  Provide PDF Download button for master's thesis on cnki.net
