@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         cnki-pdf-download.user.js
 // @namespace    https://tomcat.one/
-// @version      1.1
+// @version      1.2
 // @description  Provide PDF Download button for master's thesis on cnki.net
 // @author       tomacat
 // @match        https://kns.cnki.net/KCMS/detail/detail.aspx?*
 // @grant        none
 // @license      The Unlicense
-// @supportURL   https://github.com/tomac4t/cnki-pdf-download.user.js
+// @supportURL   https://github.com/tomac4t/cnki-pdf-download.user.js/issues
 // @updateURL    https://tomcat.one/git/tom/cnki-pdf-download.user.js/raw/branch/master/cnki-pdf-download.user.js
 // @downloadURL  https://tomcat.one/git/tom/cnki-pdf-download.user.js/raw/branch/master/cnki-pdf-download.user.js
 // @require      https://piccache.cnki.net/kdn/kns/script/jQuery-1.11.3.min.js
@@ -15,7 +15,7 @@
 // ==/UserScript==
 
 var srName = "%ccnki-pdf-download.user.js:%c";
-var srVer = "version 1.1";
+var srVer = "version 1.2";
 var srCol = "color:blue;";
 console.info(srName + srVer, srCol);
 console.info(srName + "\nTitle: " + $('.title')[0].text + "\nAuthor: " + $('.author')[0].text + "\nOrganization: " + $('.orgn')[0].text + "\nLocation: " + window.location, srCol);
