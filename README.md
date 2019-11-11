@@ -13,10 +13,10 @@ If you don't have access to the database, this user script will not be able to b
 ## How to install user scripts?
 
 To use user scripts you need to first install a user script manager. Which user script manager you can use depends on which browser you use.
-- Chrome: [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or [Violentmonkey](https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag)
-- Firefox: [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/), [Tampermonkey](https://addons.mozilla.org/firefox/addon/tampermonkey/), or [Violentmonkey](https://addons.mozilla.org/firefox/addon/violentmonkey/)
-- Safari: [Tampermonkey](http://tampermonkey.net/?browser=safari)
-- Microsoft Edge: [Tampermonkey](https://www.microsoft.com/store/p/tampermonkey/9nblggh5162s)
+- Chrome: [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)(Proprietary License) or [Violentmonkey](https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag)(The MIT License)
+- Firefox: [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/)(The MIT License), [Tampermonkey](https://addons.mozilla.org/firefox/addon/tampermonkey/)(Proprietary License), or [Violentmonkey](https://addons.mozilla.org/firefox/addon/violentmonkey/)(The MIT License)
+- Safari: [Tampermonkey](http://tampermonkey.net/?browser=safari)(Proprietary License)
+- Microsoft Edge: [Tampermonkey](https://www.microsoft.com/store/p/tampermonkey/9nblggh5162s)(Proprietary License)
 
 Click the [userscript link](https://tomcat.one/git/tom/cnki-pdf-download.user.js/raw/branch/master/cnki-pdf-download.user.js), and your user script manager will ask you to confirm the install. For more detail, please see [this guide](https://greasyfork.org/en/help/installing-user-scripts). 
 
