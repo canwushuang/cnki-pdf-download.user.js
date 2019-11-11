@@ -10,6 +10,7 @@
 // @supportURL   https://github.com/tomac4t/cnki-pdf-download.user.js
 // @updateURL    https://tomcat.one/git/tom/cnki-pdf-download.user.js/raw/branch/master/cnki-pdf-download.user.js
 // @downloadURL  https://tomcat.one/git/tom/cnki-pdf-download.user.js/raw/branch/master/cnki-pdf-download.user.js
+// @require      https://piccache.cnki.net/kdn/kns/script/jQuery-1.11.3.min.js
 // @run-at       document-end
 // ==/UserScript==
 
@@ -40,3 +41,4 @@ console.info(srName + "\nTitle: " + $('.title')[0].text + "\nAuthor: " + $('.aut
     // Unbind onclick event.
     $('.icon-dlGreen,.icon-dlBlue').prop("onclick", null).off("click");
 }).apply(null);
+
