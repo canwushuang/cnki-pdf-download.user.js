@@ -18,7 +18,7 @@ To use user scripts you need to first install a user script manager. Which user 
 - Safari: [Tampermonkey](http://tampermonkey.net/?browser=safari) (Proprietary License)
 - Microsoft Edge: [Tampermonkey](https://www.microsoft.com/store/p/tampermonkey/9nblggh5162s) (Proprietary License)
 
-Click the [userscript link](https://tomcat.one/git/tom/cnki-pdf-download.user.js/raw/branch/master/cnki-pdf-download.user.js), and your user script manager will ask you to confirm the install. For more detail, please see [this guide](https://greasyfork.org/en/help/installing-user-scripts). 
+Click the [userscript link](https://raw.githubusercontent.com/tomac4t/cnki-pdf-download.user.js/master/cnki-pdf-download.user.js), and your user script manager will ask you to confirm the install. For more detail, please see [this guide](https://greasyfork.org/en/help/installing-user-scripts). 
 
 ## License
 [The Unlicense](LICENSE)

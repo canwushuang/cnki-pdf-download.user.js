@@ -9,8 +9,8 @@
 // @license      The Unlicense
 // @homepageURL  https://tomcat.one/git/tom/cnki-pdf-download.user.js
 // @supportURL   https://github.com/tomac4t/cnki-pdf-download.user.js/issues
-// @updateURL    https://tomcat.one/git/tom/cnki-pdf-download.user.js/raw/branch/master/cnki-pdf-download.user.js
-// @downloadURL  https://tomcat.one/git/tom/cnki-pdf-download.user.js/raw/branch/master/cnki-pdf-download.user.js
+// @updateURL    https://raw.githubusercontent.com/tomac4t/cnki-pdf-download.user.js/master/cnki-pdf-download.user.js
+// @downloadURL  https://raw.githubusercontent.com/tomac4t/cnki-pdf-download.user.js/master/cnki-pdf-download.user.js
 // @require      https://piccache.cnki.net/kdn/kns/script/jQuery-1.11.3.min.js
 // @run-at       document-end
 // ==/UserScript==
